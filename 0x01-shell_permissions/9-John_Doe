@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -fhR hello
+chmod u=rw hello
