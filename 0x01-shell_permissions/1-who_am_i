@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Effective usernam: $(id -un)"
+echo "id -un"
